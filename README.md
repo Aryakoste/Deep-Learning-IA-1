@@ -4,6 +4,6 @@ I was uploading from sisters PC from her git bash, her name is sonal was commite
 Group Members:-
 1. Pradnya Singh (2022025)
 2. Harsh Vachyasidha (2022007)
-3. Khochare Arya Subod (2022024)
+3. Khochare Arya Subodh (2022024)
 
 Instuctions for running given in report provided.
